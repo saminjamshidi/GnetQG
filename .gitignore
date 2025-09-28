@@ -1,0 +1,17 @@
+# macOS system files to ignore
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon? file on macOS (includes trailing carriage returns)
+Icon\r\r
+
+# Thumbnails and metadata
+._*
+.Spotlight-V100
+.Trashes
+.Trash-*
+.fseventsd
+
+# Node modules
+node_modules/
