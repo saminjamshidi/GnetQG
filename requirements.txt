@@ -1,0 +1,13 @@
+# Core
+torch==2.3.1          # If you use CUDA, prefer installing PyTorch via https://pytorch.org/get-started/locally/
+transformers>=4.41.0
+tokenizers>=0.15.2
+
+# Metrics & NLP
+nltk>=3.8.1
+rouge==1.0.1
+bert-score>=0.3.13
+sentencepiece>=0.1.99
+
+# Data / Utils
+numpy>=1.24.0
